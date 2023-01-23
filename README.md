@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I enjoy working with data, so much that I pursued a Master's in Management Analytics which opened the door to machine learning and Big Data. As I try to build my analytics career
+#### As a business professional, I enjoyed worked with data and so I decided to pursue a Master's in Management Analytics (MMA) which exposed me to statistical analysis, advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work. Enjoy! :)
 
 
 <!--
