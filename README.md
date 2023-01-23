@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### I'
+#### I enjoy working with data, so much that I pursued a Master's in Management Analytics which opened the door to machine learning and Big Data. As I try to build my analytics career
+
 
 <!--
 **Sana-Hasan/Sana-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
