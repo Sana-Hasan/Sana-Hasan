@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### As a business professional, I enjoyed worked with data and so I decided to pursue a Master's in Management Analytics (MMA) which exposed me to statistical analysis, advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work. Enjoy! :)
+#### As a business professional, I enjoyed worked with data and so, I decided to pursue a Master's in Management Analytics (MMA) which exposed me to a lot of cool things such as advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work here. Enjoy! :)
 
 
 <!--
