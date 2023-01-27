@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
-#### As a business professional, I enjoyed worked with data and analyzing trends which led me to pursue a Master's degree in Management Analytics (MMA). This exposed me to a lot of cool things such as advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work here. Enjoy! :)
-
+<sub>
+As a business professional, I enjoyed worked with data and analyzing trends which led me to pursue a Master's degree in Management Analytics (MMA). This exposed me to a lot of cool things such as advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work here. Enjoy! :)
+</sub>
 
 <!--
 **Sana-Hasan/Sana-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
