@@ -1,7 +1,6 @@
-### Hi there! 👋
+ ### Hi there! 👋 
 
 <sub>
-  `#0969DA`
 As a business professional, I enjoyed worked with data and analyzing trends which led me to pursue a Master's degree in Management Analytics (MMA). This exposed me to a lot of cool things such as advanced analytics and Big Data. As I try to build my analytics career, I'll be showcasing some of my work here. Enjoy! :)
 </sub>
 
